@@ -111,7 +111,14 @@
 
 **Congratulations** on deciding to participate in 30 days of JavaScript programming challenge. In this challenge you will learn everything you need to be a JavaScript programmer, and in general, the whole concept of programming. In the end of the challenge you will get a 30DaysOfJavaScript programming challenge completion certificate. In case you need help or if you would like to help others you may join the [telegram group](https://t.me/ThirtyDaysOfJavaScript).
 
+genneral adj. 一般的，普通的；综合的；大体的  英  [ˈdʒenrəl]   美  [ˈdʒenrəl]
+and in general 一般而言 
+in case 万一 假使
+恭喜你决定参加30天JavaScript编程挑战。在这个挑战中，你将会学习成为JavaScript编程者需要的一切,以及一般而言,编程的整个改建。通过挑战后，你会获得挑战的完成证书。假使你需要帮助或者你想帮助别人，你可以加入电报群。
+
 **A 30DaysOfJavaScript** challenge is a guide for both beginners and advanced JavaScript developers. Welcome to JavaScript. JavaScript is the language of the web. I enjoy using and teaching JavaScript and I hope you will do so too.
+
+挑战是一个帮助JS初学或者进阶者的指南。欢迎来到JS,JS是世界上最棒的语言。
 
 In this step by step JavaScript challenge, you will learn JavaScript, the most popular programming language in the history of mankind.
 JavaScript is used **_to add interactivity to websites, to develop mobile apps, desktop applications, games_** and nowadays JavaScript can be used for **_machine learning_** and **_AI_**.
@@ -119,31 +126,54 @@ JavaScript is used **_to add interactivity to websites, to develop mobile apps, 
 programming language for six consecutive years and is the most used programming language on
 Github.
 
+step by step逐步地 循序渐进的
+six consecutive years 连续六年
+在这个循序渐进的挑战，你将会学习JS这个最厉害的语言。JS用于**为网站增加交互性、开发移动应用、桌面应用、游戏**和*AI*。近年来JS更加的受欢迎，已经连续六年作为编程语言中的扛把子了，也是github中被使用最多的语言。
+
 ## Requirements
 
 No prior knowledge of programming is required to follow this challenge. You need only:
 
-1. Motivation
-2. A computer
-3. Internet
-4. A browser
-5. A code editor
+prior  adj. （时间、顺序等）先前的；优先的  英  [ˈpraɪər]   美  [ˈpraɪər]
+跟随这个挑战，不需要你有之前的编程知识。你只需要
+
+
+
+
+1. Motivation  n. 动机；积极性；推动  英  [ˌməʊtɪˈveɪʃn]   美  [ˌmoʊtɪˈveɪʃn]
+2. A computer 电脑
+3. Internet 网络
+4. A browser 浏览器
+5. A code editor 代码编辑器
 
 ## Setup
 
 I believe you have the motivation and a strong desire to be a developer, a computer and Internet. If you have those, then you have everything to get started.
 
+desire n. 欲望；要求，心愿；性欲   英  [dɪˈzaɪər]   美  [dɪˈzaɪər]
+
+我相信你有动机和强烈的愿望成为一个开发者,并且有电脑和网络。如果你有这些，你就有了开始的全部条件。
+
 ### Install Node.js
 
 You may not need node.js right now but you may need it for later. Install [node.js](https://nodejs.org/en/).
+
+你现在可能不需要node.js，但是你以后可能需要他。在这里安装。
 
 ![Node download](images/download_node.png)
 
 After downloading double click and install
 
+下载后双击安装
+
 ![Install node](images/install_node.png)
 
 We can check if node is installed on our local machine by opening our device terminal or command prompt.
+
+
+prompt n. 提示，提词；（电脑屏幕上的）提示符；鼓励；催促；付款期限  英  [prɒmpt]   美  [prɑːmpt]
+
+我们可以通过打开我我们的设置终端 或者 命令提示符 检查 node是否已经被安装在我们本机 。
 
 ```sh
 asabeneh $ node -v
@@ -152,9 +182,12 @@ v12.14.0
 
 When making this tutorial I was using node version 12.14.0, but now the recommended version of node.js for download is 12.17.0.
 
-### Browser
+我们只做这个教程,我使用的node是版本12.14.0，但是现在建议下载的node版本是12.17.（用最新的稳定版就行.）
 
+### Browser
+浏览器
 There are many browsers out there. However, I strongly recommend Google Chrome.
+有很多浏览器,但是我强烈推荐谷歌浏览器。
 
 #### Installing Google Chrome
 
